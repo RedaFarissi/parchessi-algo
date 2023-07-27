@@ -1,4 +1,4 @@
-# parchessi_algo test using react js
+# parchessi_algo using react js
 
 First install Node.js in your machine 
 
