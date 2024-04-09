@@ -6,4 +6,6 @@ First install Node.js in your machine
 
 >cd parchessi_algo
 
+>npm install
+
 >npm start
