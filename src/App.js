@@ -633,17 +633,41 @@ useEffect(()=>{
 
   return( 
     <main style={{width:"100%"}} className="position-relative d-flex justify-content-center align-items-center">
-      <Player noba_p={dadosa_num_p.noba} noba_s={dadosa_num_s.noba} bg='var(--primary)' num={dadosa_num_p.num} click={dadosa_p} />
-      <Player noba_p={dadosa_num_p.noba} noba_s={dadosa_num_s.noba} bg='var(--danger)'  />
-      <Player noba_p={dadosa_num_p.noba} noba_s={dadosa_num_s.noba} bg='var(--success)' num={dadosa_num_s.num} click={dadosa_s} />
-      <Player noba_p={dadosa_num_p.noba} noba_s={dadosa_num_s.noba} bg='var(--warning)' />
-      <div className="w-100 d-flex justify-content-center align-items-center" style={{height:"100vh"}}>    
-        <Table 
-            wlad_p={wlad_p} wlad_s={wlad_s}  
-            boy_p={boy_p}  boy_s={boy_s} p_yakliki={p_yakliki}  s_yakliki={s_yakliki}  calcule={calcule}
-            boy_flesh_p={boy_flesh_p}  boy_flesh_s={boy_flesh_s}  calcule_flesh={calcule_flesh}
+        <Player 
+            noba_p={dadosa_num_p.noba} 
+            noba_s={dadosa_num_s.noba} 
+            bg='var(--primary)' 
+            num={dadosa_num_p.num} 
+            click={dadosa_p} 
         />
-      </div>
+        <Player 
+            noba_p={dadosa_num_p.noba} 
+            noba_s={dadosa_num_s.noba} 
+            bg='var(--danger)'  
+        />
+        <Player 
+            noba_p={dadosa_num_p.noba} 
+            noba_s={dadosa_num_s.noba} 
+            bg='var(--success)' 
+            num={dadosa_num_s.num} 
+            click={dadosa_s} 
+        />
+        <Player 
+            noba_p={dadosa_num_p.noba} 
+            noba_s={dadosa_num_s.noba} 
+            bg='var(--warning)' 
+        />
+        <div className="w-100 d-flex justify-content-center align-items-center" style={{height:"100vh"}}>    
+              <Table 
+                  wlad_p={wlad_p} wlad_s={wlad_s}  
+                  boy_p={boy_p}  boy_s={boy_s} 
+                  p_yakliki={p_yakliki}  s_yakliki={s_yakliki}  
+                  calcule={calcule}
+                  boy_flesh_p={boy_flesh_p}  
+                  boy_flesh_s={boy_flesh_s}  
+                  calcule_flesh={calcule_flesh}
+              />
+        </div>
     </main>
   )
 }
