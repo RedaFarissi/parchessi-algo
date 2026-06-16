@@ -27,10 +27,10 @@ L'application permet à deux joueurs de jouer localement sur le même appareil s
 
 ## Captures d'écran
 
-(Ajouter ici des captures d'écran du jeu)
 <img src="screenshots/parchessi-game.png" width="800" />
-## Installation
+<img src="screenshots/parchessi-game2.png" width="800" />
 
+## Installation
 Cloner le projet :
 
 ```bash
