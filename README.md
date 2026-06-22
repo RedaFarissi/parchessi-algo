@@ -1,6 +1,13 @@
 # Parchís Algo
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://redafarissi.github.io/parchessi-algo/)
+[![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+
 Application React.js représentant une version hors ligne du jeu Parchís pour deux joueurs.
+
+## 🎮 Démo en ligne
+
+**[👉 Jouer maintenant](https://redafarissi.github.io/parchessi-algo/)**
 
 ## Description
 
