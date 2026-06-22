@@ -7,7 +7,7 @@ Application React.js représentant une version hors ligne du jeu Parchís pour d
 
 ## 🎮 Démo en ligne
 
-**[👉 Jouer maintenant](https://redafarissi.github.io/parchessi-algo/)**
+<a href="https://redafarissi.github.io/parchessi-algo/" target="_blank">👉 Jouer maintenant</a>
 
 ## Description
 
