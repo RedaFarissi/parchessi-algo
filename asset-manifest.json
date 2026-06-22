@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parchessi-algo/static/css/main.6cc93d7a.css",
+    "main.js": "/parchessi-algo/static/js/main.3a113222.js",
+    "index.html": "/parchessi-algo/index.html",
+    "main.6cc93d7a.css.map": "/parchessi-algo/static/css/main.6cc93d7a.css.map",
+    "main.3a113222.js.map": "/parchessi-algo/static/js/main.3a113222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc93d7a.css",
+    "static/js/main.3a113222.js"
+  ]
+}
